@@ -436,21 +436,21 @@ header .container {
 
 
 /*-----------------------------------*\
- * #PRICING
+ * #Demo
 \*-----------------------------------*/
 
-.pricing {
+.demo {
   background: var(--cultured);
   padding: var(--section-padding);
 }
 
-.pricing-content { margin-bottom: 40px; }
+.demo-content { margin-bottom: 40px; }
 
-.pricing .section-title { margin-bottom: 20px; }
+.demo .section-title { margin-bottom: 20px; }
 
-.pricing .section-text { margin-bottom: 30px; }
+.demo .section-text { margin-bottom: 30px; }
 
-.pricing-banner img { width: 100%; }
+.demo-banner img { width: 100%; }
 
 
 
@@ -896,10 +896,10 @@ header .container {
 
 
   /**
-   * PRICING
+   * Demo
    */
 
-  .pricing .container {
+  .demo .container {
     display: grid;
     grid-template-columns: 1fr 1fr;
     align-items: center;

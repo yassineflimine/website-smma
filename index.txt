@@ -4,7 +4,7 @@ SCEO - Seo agency website
 
 # HEADER
 
-alt = SCEO logo
+alt = Mediatology logo
 
 <ion-icon name="menu-outline"></ion-icon>
 <ion-icon name="close-outline"></ion-icon>
@@ -13,7 +13,7 @@ Home
 Service
 About
 Features
-Pricing
+Demo
 FAQ's
 
 Let's Started
@@ -22,18 +22,18 @@ Let's Started
 
 # HERO
 
-Get more sales with SEO, PPC, and Email Marketing
+Get more sales with SEO, PPC, and Digital Marketing
 
 placeholder = Enter your name*
 placeholder = Enter your email*
 
 Get started now
 
-Free 30 days trial
+Free 14 days trial
 Exclusive Support
 No Fees
 
-alt = Seo illustration
+alt = Mediatology illustration
 
 
 
